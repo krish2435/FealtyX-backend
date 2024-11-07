@@ -1,4 +1,4 @@
-#FealtyX-Backend
+# FealtyX-backend
 
 This FastAPI project is designed to provide an API for managing students data and integrating with the LLaMA model. The project includes endpoints for processing requests and interacting with AI model for data summarization
 
