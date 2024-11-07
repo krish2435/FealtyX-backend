@@ -1,6 +1,9 @@
-# Project Name
+#FealtyX-Backend
 
-This FastAPI project is designed to [briefly describe the project's purpose, e.g., provide an API for managing user data]. This README outlines the setup process, running the project locally, and instructions for installing OLLAMA and downloading the LLaMA model.
+This FastAPI project is designed to provide an API for managing students data and integrating with the LLaMA model. The project includes endpoints for processing requests and interacting with AI model for data summarization
+
+This README outlines the setup process, running the project locally, and instructions for installing OLLAMA and downloading the LLaMA model.
+
 
 ## Requirements
 
